@@ -4,7 +4,7 @@
  * Power 
     * [XT60 Source](#XT60-Source) x16
     * [XT60 Uninterrupted Source](#XT60-Uninterrupted-Source) x3
-    * [IO-link Power(24V)](#IO-link-Power(24V)) X1
+    * [IO-link Power(24V)](#io-link-power24v) X1
  * Auxiliary 
     * 12V Power vias KF127
     * Conetion to external E-Stop
