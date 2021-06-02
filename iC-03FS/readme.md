@@ -11,7 +11,7 @@
     * On Board E-Stop
  * BMS
     * F103C8T6(Mbed not Support, use keil)
-    * Volatge sensor vias I2C
+    * Volatge sensor vias I2C       
 [CAD Download](3Dfile)
 ## Power
 
