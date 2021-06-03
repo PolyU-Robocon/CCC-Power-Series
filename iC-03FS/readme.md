@@ -25,19 +25,21 @@ Motor and other devices that should be stop by the E-Stop button should be conne
 ### XT60 Uninterrupted Source
 ![image](https://user-images.githubusercontent.com/45313904/120700920-d7615580-c4e4-11eb-8457-572481eb1b4c.png)      
 This have 3 Port that will *not be interrupted* by the EStop      
-
+         
+         
 ### IO-link Power(24V)
 For I/O link Master controller      
 M12 connector is used      
-
+         
+         
 ## Auxiliary
 ### 12V Power vias KF127
-![image](https://user-images.githubusercontent.com/45313904/120702845-21e3d180-c4e7-11eb-8051-02ba6c36d061.png)
+![image](https://user-images.githubusercontent.com/45313904/120702845-21e3d180-c4e7-11eb-8051-02ba6c36d061.png)      
 A 12V power source, you may power it for power anything less than 2A(such as remote relay)
-
+      
 
 ### Conetion to external E-Stop
-![image](https://user-images.githubusercontent.com/45313904/120703210-9585de80-c4e7-11eb-9093-53b2e239a737.png)
+![image](https://user-images.githubusercontent.com/45313904/120703210-9585de80-c4e7-11eb-9093-53b2e239a737.png)      
 
 | Port Name | Description                                                                |
 |-----------|----------------------------------------------------------------------------|
@@ -45,4 +47,4 @@ A 12V power source, you may power it for power anything less than 2A(such as rem
 | COM       | Connect to Relay/Switch COM port,<br>PGND,<br>for pull down the NO port          |
 
 ### On Board E-Stop
-![image](https://user-images.githubusercontent.com/45313904/120704306-0679c600-c4e9-11eb-8eca-8af658737fe6.png)
+![image](https://user-images.githubusercontent.com/45313904/120704306-0679c600-c4e9-11eb-8eca-8af658737fe6.png)      
