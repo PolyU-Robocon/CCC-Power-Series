@@ -12,6 +12,7 @@
  * BMS
     * F103C8T6(Mbed not Support, use keil)
     * Volatge sensor vias I2C
+ * Mount Hole Dimension 
            
 [M-CAD File Download](3Dfile)
 ## Power
