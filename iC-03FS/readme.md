@@ -10,7 +10,7 @@
     * [Conetion to external E-Stop](#Conetion-to-external-E-Stop)
     * [On Board E-Stop](#On-Board-E-Stop)
  * BMS
-    * F103C8T6(Mbed not Support, use keil)
+    * [F103C8T6](#F103C8T6)(Mbed not Support, use keil)
     * Volatge sensor vias I2C
  * Mount Hole Dimension 
            
@@ -49,3 +49,19 @@ A 12V power source, you may power it for power anything less than 2A(such as rem
 
 ### On Board E-Stop
 ![image](https://user-images.githubusercontent.com/45313904/120704306-0679c600-c4e9-11eb-8eca-8af658737fe6.png)      
+
+## BMS
+### F103C8T6
+If you use mbed just ignore this part, mbed user go away   
+Bluephill is used, remenber to check the jumper and oscillator crystal position   
+![image](https://user-images.githubusercontent.com/45313904/125508969-ea37646e-36ce-4147-a828-d12760520afc.png)
+
+#### Pin assignment
+![image](https://user-images.githubusercontent.com/45313904/125509842-1ed60dcf-5a16-4506-9b02-57b9425f965f.png)      
+| Pin  | Description                                                                                                   |
+|------|---------------------------------------------------------------------------------------------------------------|
+| PB4  | Control the FET to turn on/off (pull the pin to GND to turn off the FET)  (Recommended Pin mode: GPIO_Output) |
+| PA15 | Detect whether manual E-stop switch is turn on (I forgot the Remote relay part, sorry!)                       |
+| PB3  | N.C. for this version                                                                                         |
+
+
