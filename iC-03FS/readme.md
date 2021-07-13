@@ -1,3 +1,16 @@
+# Already know problem
+![image](https://user-images.githubusercontent.com/45313904/125517875-9afa547b-215a-413a-990e-f7d29ad9743c.png)
+![image](https://user-images.githubusercontent.com/45313904/125517952-787a0210-2693-45ae-826c-b8cbf81313c5.png)
+
+* SGND PGND what a messh(really no time to properly place them, wiat next ver. la)
+* during bad emf, cannot turn off
+* 12V power no protection
+* 24V power naive protection
+* polyu robocon gg
+* CCC on999
+* EIE become IAI
+
+
 # iC-03FS Waff
 ![image](https://user-images.githubusercontent.com/45313904/120550068-f8fc0780-c426-11eb-9721-47f47f4ea195.png)
 ## Feature
