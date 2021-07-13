@@ -64,4 +64,8 @@ Bluephill is used, remenber to check the jumper and oscillator crystal position
 | PA15 | Detect whether manual E-stop switch is turn on (I forgot the Remote relay part, sorry!)                       |
 | PB3  | N.C. for this version                                                                                         |
 
+| Bus  | Pin | Description |
+|------|-----|-------------|
+| I2C1 | PB7 | SDA         |
+| I2C1 | PB6 | SCL         |     
 
